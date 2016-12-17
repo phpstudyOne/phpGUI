@@ -1,0 +1,71 @@
+Versões usadas na compilação:
+PHP 5.5.10
+gtk 2.24.10
+libglade 2.6.4-1
+gtksourceview 1.8.5
+gtk+extra 2.1.2
+libiconv 1.9.1
+libxml 2-2.7.8
+
+Extensões habilitadas no php:
+
+php_curl
+php_gd2
+php_interbase
+php_mbstring
+php_mysql
+php_mysqli
+php_pdo_firebird
+php_pdo_mysql
+php_pdo_odbc
+php_pdo_pgsql
+php_pdo_sqlite
+php_pgsql
+php_soap
+php_sqlite3
+php_cairo
+php_gtk2
+
+Extensões php-gtk habilitadas
+
+php_gtk_libglade2
+php_gtk_sourceview2
+php_gtk_extra2
+
+Obs: php short tags desabilitado
+
+Versions used in the compilation:
+PHP 5.5.10
+gtk 2:24:10
+libglade 2.6.4-1
+gtksourceview 1.8.5
+Extra gtk + 2.1.2
+libiconv 1.9.1
+2-2.7.8 libxml
+
+Extensions enabled in php:
+
+php_curl
+php_gd2
+php_interbase
+php_mbstring
+php_mysql
+php_mysqli
+php_pdo_firebird
+php_pdo_mysql
+php_pdo_odbc
+php_pdo_pgsql
+php_pdo_sqlite
+php_pgsql
+php_soap
+php_sqlite3
+php_cairo
+php_gtk2
+
+Extensions php-gtk enabled
+
+php_gtk_libglade2
+php_gtk_sourceview2
+php_gtk_extra2
+
+Note: php short tags disabled

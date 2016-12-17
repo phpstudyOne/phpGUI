@@ -1,0 +1,9 @@
+Está é uma compilação de teste do php 5.5 com gtk 2.
+Seu uso em produção é  por sua própria conta e risco.
+Não assumimos qualquer dano que venha a ocorrer.
+Por favor relate bugs para php-gtk-dev@lists.php.net
+
+This is a test build of php 5.5 with gtk 2.
+His production use is at your own risk.
+We do not assume any damage that may occur.
+Please report bugs to php-gtk-dev@lists.php.net
