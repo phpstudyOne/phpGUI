@@ -33,3 +33,7 @@ c:\php-gui\PHP-GTK2\demos\components>phpgui colorselector.php
 (暂缺)
 ##三.linux安装
 (暂缺)
+
+***
+
+嗯，mac，这个东西，我还没得~~ linux的，以后再补吧。^_^
