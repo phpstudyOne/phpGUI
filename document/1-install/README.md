@@ -4,7 +4,7 @@
 phpgtk 目前支持 windows、mac、linux 系统。
 
 ##一.windows安装
-####1.进入到[gtk下载链接](gtk.php.net/download.php)下载
+####1.进入到[gtk下载链接](http://gtk.php.net/download.php)下载
 
 ![download](https://raw.githubusercontent.com/phpstudyOne/phpGUI/install/document/1-install/download.png)
 
