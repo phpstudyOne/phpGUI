@@ -21,4 +21,4 @@ Gtk::main();
 ```
 
 运行它，看看效果：
-![example_2.1.php](https://raw.githubusercontent.com/phpstudyOne/phpGUI/hello_world_basic/document/2-hello_world_basic/images/example_2.1.png)
+![example_2.1.php](https://raw.githubusercontent.com/phpstudyOne/phpGUI/master/document/2-hello_world_basic/images/example_2.1.png)
